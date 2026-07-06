@@ -1,5 +1,2 @@
-# kkk install
-## jk
-### jk
-'''bash
-ttt
+# kkk 包管理器
+一款简易的linux包管理器，通过git仓库快速安装卸载程序。
