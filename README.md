@@ -7,7 +7,7 @@
 3,打开终端  
 4,移到kkk所在目录
 ```bash
-cd “kkk所在目录
+cd “kkk所在目录“
 ```
 5,安装kkk
 ```bash
